@@ -1,7 +1,7 @@
 # from datetime import datetime
 
 #Private variabel menggunakan double underscore __
-#Constractor
+#Constractor OOP
 # class Mobil:
 #     def __init__(self, merek, tipe, harga, warna, 
 #                  tahun_pembuatan):
